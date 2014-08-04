@@ -626,6 +626,7 @@ namespace LINQToSQL
         /// <param name="beginningYear"></param>
         /// <param name="endingYear"></param>
         /// <returns></returns>
+        /// Thomas
         public static List<Sales_by_YearResult> SalesByYear(DateTime? beginningYear, DateTime? endingYear)
         {
             NorthWindDataClassesDataContext dc = new NorthWindDataClassesDataContext();
