@@ -1,0 +1,21 @@
+D:\Training\Example\L2S_Northwind\L2S_Northwind\bin\Debug\L2S_Northwind.exe.config
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.exe
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.pdb
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\LINQToSQL.frmMain.resources
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.Properties.Resources.resources
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\LINQToSQL.csproj.GenerateResource.Cache
+D:\Training\Example\L2S_Northwind\L2S_Northwind\bin\Debug\L2S_Northwind.exe
+D:\Training\Example\L2S_Northwind\L2S_Northwind\bin\Debug\L2S_Northwind.pdb
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\bin\Debug\L2S_Northwind.exe.config
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.exe
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.pdb
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\obj\Debug\LINQToSQL.frmMain.resources
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.Properties.Resources.resources
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\obj\Debug\LINQToSQL.csproj.GenerateResource.Cache
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\bin\Debug\L2S_Northwind.exe
+D:\Training\Research\Examples\LINQToSQL\LINQToSQL\bin\Debug\L2S_Northwind.pdb
+C:\ftp\C029-LINQ Framework\Examples\LINQToSQL\LINQToSQL\bin\Debug\L2S_Northwind.exe.config
+C:\ftp\C029-LINQ Framework\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.exe
+C:\ftp\C029-LINQ Framework\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.pdb

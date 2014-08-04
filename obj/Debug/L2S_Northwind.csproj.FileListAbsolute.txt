@@ -1,0 +1,9 @@
+D:\Training\Example\L2S_Northwind\L2S_Northwind\bin\Debug\L2S_Northwind.exe.config
+D:\Training\Example\L2S_Northwind\L2S_Northwind\bin\Debug\L2S_Northwind.exe
+D:\Training\Example\L2S_Northwind\L2S_Northwind\bin\Debug\L2S_Northwind.pdb
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\ResolveAssemblyReference.cache
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.frmMain.resources
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.Properties.Resources.resources
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.csproj.GenerateResource.Cache
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.exe
+D:\Training\Example\L2S_Northwind\L2S_Northwind\obj\Debug\L2S_Northwind.pdb
