@@ -4,7 +4,7 @@ using System.Linq;
 using System.Data.Linq;
 using System.Text;
 
-
+//thomas add some new command here
 
 namespace LINQToSQL
 {
