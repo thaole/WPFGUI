@@ -19,3 +19,6 @@ D:\Training\Research\Examples\LINQToSQL\LINQToSQL\bin\Debug\L2S_Northwind.pdb
 C:\ftp\C029-LINQ Framework\Examples\LINQToSQL\LINQToSQL\bin\Debug\L2S_Northwind.exe.config
 C:\ftp\C029-LINQ Framework\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.exe
 C:\ftp\C029-LINQ Framework\Examples\LINQToSQL\LINQToSQL\obj\Debug\L2S_Northwind.pdb
+C:\Git\sample1\WPFGUI\bin\Debug\L2S_Northwind.exe.config
+C:\Git\sample1\WPFGUI\obj\Debug\L2S_Northwind.exe
+C:\Git\sample1\WPFGUI\obj\Debug\L2S_Northwind.pdb

@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Accessor.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
