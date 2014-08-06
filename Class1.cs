@@ -10,5 +10,6 @@ namespace L2S_Northwind
 {
     class Class1
     {
+        // this comment is written on the github website to check some command of Git
     }
 }
