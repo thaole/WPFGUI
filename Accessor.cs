@@ -14,6 +14,7 @@ namespace LINQToSQL
     /// select, insert, update, and delete data
     /// using LINQ to SQL and the defined
     /// data context
+    /// thomas change something for test commit
     /// </summary>
     public class Accessor
     {
